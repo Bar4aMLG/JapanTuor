@@ -1,0 +1,32 @@
+.footer {
+  background-color: rgb(75,75,75);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 21px 21px 0px 0px;
+
+}
+
+.footer-buttons {
+  margin-top: 10px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  color: rgb(75,75,75);
+  font-weight: bold;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+.btn-github , .btn-instagram , .btn-linkedin {
+  background-color: white;
+}
+
+.btn-github:hover,.btn-instagram:hover,.btn-linkedin:hover {
+  background-color: rgb(156, 156, 156);
+}
